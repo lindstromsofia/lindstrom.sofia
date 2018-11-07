@@ -4,10 +4,11 @@
 .mb-0, .my-0 {
     margin-bottom: 0!important;
 }
-a {
-    color: #0a5aafb6;
-    text-decoration: none;
-    background-color: transparent;
-    -webkit-text-decoration-skip: objects;
 
-    
+.text-primary {
+    color: #343a40!important;
+}
+
+a {
+    color: #035ab7;
+}
